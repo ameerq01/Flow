@@ -370,6 +370,7 @@ public class Main extends Application {
 				Image imgClick= new Image("file:images/mousclick.gif",200,200,true,true);
 				ImageView ivClicked = new ImageView(imgClick);
 				Alert i = new Alert(AlertType.INFORMATION);
+				i.setHeight(400);
 				i.setTitle("Flow");
 				i.setHeaderText(null);
 				i.setContentText("Your objective is to connect circles of the same color and fill up the board!   "
