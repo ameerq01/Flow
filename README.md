@@ -5,7 +5,7 @@ My version of the popular Android game. Made with Java (JavaFX)
 Features:
 Includes 5 levels. As you make it through levels,save
 your progress by providing a username and
-password. Your infowill be saved in 
+password. Your info will be saved in 
 a binary file and you can load your game
 the next time you play.
 
